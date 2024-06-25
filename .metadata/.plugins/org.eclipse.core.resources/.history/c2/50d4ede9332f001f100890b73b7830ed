@@ -1,0 +1,14 @@
+package day17;
+
+public class DataConversionMethods {
+
+	public static void main(String[] args) {
+		
+		// String to int
+		
+		//String s = "welcome"; //cannot convert to int
+		String s = "12345";
+		int sint = Integer.parseInt(s);
+	}
+
+}

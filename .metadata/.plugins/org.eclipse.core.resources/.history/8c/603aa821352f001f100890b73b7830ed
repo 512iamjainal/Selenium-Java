@@ -1,0 +1,24 @@
+package day17;
+
+public class DataConversionMethods {
+
+	public static void main(String[] args) {
+		
+		// String to int
+		
+		//String s = "welcome"; //cannot convert to int
+		/*String s1 = "10";
+		String s2 = "20";
+		System.out.println(Integer.parseInt(s1)+Integer.parseInt(s2));
+		*/
+		
+		// String to double
+		String s1 = "10.5";
+		String s2 = "20.6";
+		System.out.println(Double.parseDouble(s1)+Double.parseDouble(s2));
+		
+		
+		
+	}
+
+}

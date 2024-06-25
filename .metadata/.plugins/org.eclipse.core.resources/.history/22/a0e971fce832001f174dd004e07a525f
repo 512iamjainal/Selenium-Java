@@ -1,0 +1,26 @@
+package day19;
+
+//Upcasting - converting value from smaller to larger
+//int  ----> long
+//float ---> double
+
+//Downcasting - converting value from larger to smaller
+// long --> int
+// double --> float 
+
+
+public class TypeCastingConcept {
+
+	public static void main(String[] args) {
+		
+		//upcasting = smaller to larger  /  automatic
+		
+		int intValue = 1000;
+		long longValue = intValue;
+		System.out.println(longValue);
+		
+		
+
+	}
+
+}

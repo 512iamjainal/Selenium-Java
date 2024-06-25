@@ -1,0 +1,16 @@
+package day19;
+
+//Upcasting - converting value from smaller to larger
+//int  ----> long
+
+//Downcasting - converting value from larger to smaller
+
+public class TypeCastingConcept {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}
